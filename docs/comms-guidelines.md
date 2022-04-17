@@ -31,3 +31,5 @@ Violations are not tolerated, but there are always some gray areas.
 - **Direction violations** require action immediately. This may include removing an offensive comment, [blocking the user](https://help.github.com/articles/blocking-a-user-from-your-organization/) from our organization, and [reporting them to GitHub](https://help.github.com/articles/reporting-abuse-or-spam/) directly.
 
   
+
+  
